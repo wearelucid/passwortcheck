@@ -6,3 +6,52 @@ label {font-weight:bold}
 .weak {
   color: #ff6666;
 }
+
+@font-face {
+  font-display: swap;
+  font-family: Salvatore;
+  font-style: normal;
+  font-weight: normal;
+  src: url('/../fonts/SalvatoreBook.woff2') format('woff2'),
+    url('/../fonts/SalvatoreBook.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Salvatore;
+  font-style: italic;
+  font-weight: normal;
+  src: url('/../fonts/SalvatoreBookItalic.woff2') format('woff2'),
+    url('/../fonts/SalvatoreBookItalic.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Salvatore;
+  font-style: normal;
+  font-weight: 600;
+  src: url('/../fonts/SalvatoreBold.woff2') format('woff2'),
+    url('/../fonts/SalvatoreBold.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Salvatore;
+  font-style: italic;
+  font-weight: 600;
+  src: url('/../fonts/SalvatoreBoldItalic.woff2') format('woff2'),
+    url('/../fonts/SalvatoreBoldItalic.woff') format('woff');
+}
+
+
+* {
+  font-family: 'Salvatore', sans-serif;
+}
+
+input#password {
+  display: block;
+  width: 100%;
+  font-size: 2rem;
+  margin: 10px 0 20px !important;
+  padding: 0 5px;
+}
