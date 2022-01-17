@@ -229,5 +229,8 @@
     "privacyStatement": "Charte de confidentialité",
 	"privacyStatementText": "Pendant l'accès au test de mot de passe de la protection des données du canton de Zurich, l'adresse IP est temporairement utilisée pour mettre à jour les statistiques. Après cela, l'adresse IP est supprimée.",
     "version": ""
+  },
+  "qualitySeal": {
+    "text": "Un service fourni par"
   }
 }

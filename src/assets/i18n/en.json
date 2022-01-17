@@ -236,5 +236,8 @@
     "privacyStatement": "Data Protection Notice",
     "privacyStatementText": "When accessing Password Check of the Data Protection Officer of the Canton of Zurich an IP address is used to refresh the statistic. Afterwards, the IP address is deleted.",
     "version": "Version"
+  },
+  "qualitySeal": {
+    "text": "A service provided by"
   }
 }

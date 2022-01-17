@@ -231,5 +231,8 @@
     "privacyStatement": "Carta di riservatezza",
     "privacyStatementText": "Durante l'accesso al test della password di protezione dei dati del Cantone di Zurigo, l'indirizzo IP viene temporaneamente utilizzato per aggiornare le statistiche. Successivamente, l'indirizzo IP viene cancellato.",
     "version": ""
+  },
+  "qualitySeal": {
+    "text": "Un servizio fornito da"
   }
 }

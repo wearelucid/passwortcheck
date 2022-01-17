@@ -231,5 +231,8 @@
     "privacyStatement": "Datenschutzerklärung",
     "privacyStatementText": "Beim Zugriff auf den Passwortcheck des Datenschutzbeauftragten des Kantons Zürich wird die IP-Adresse vorübergehend verwendet, um die Statistik zu aktualisieren. Danach wird die IP-Adresse gelöscht.",
     "version": ""
+  },
+  "qualitySeal": {
+    "text": "Eine Dienstleistung der"
   }
 }
