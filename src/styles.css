@@ -48,14 +48,6 @@ label {font-weight:bold}
   font-family: 'Salvatore', sans-serif;
 }
 
-input#password {
-  display: block;
-  width: 100%;
-  font-size: 2rem;
-  margin: 10px 0 20px !important;
-  padding: 0 5px;
-}
-
 .QualitySeal {
   border-top: 1px solid #F3DFD6;
   color: #0857C3;
@@ -66,4 +58,40 @@ input#password {
 .QualitySeal__text {
   font-size: 14px;
   margin-bottom: 1em;
+}
+
+.input-wrap {
+  background: #0857C3;
+  box-shadow: 0px 0px 20px rgba(8, 87, 195, 0.3);
+  border-radius: 10px;
+  padding: 18px;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+
+.input-wrap input {
+  display: block;
+  width: 100%;
+  font-size: 2rem;
+  margin: 0 !important;
+  border: 0;
+  padding: 8px 18px;
+  height: 44px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 0px 10px rgba(255, 107, 23, 0.5);
+  border-radius: 10px;
+  font-family: Salvatore;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #0857C3;
+}
+
+html {
+  font-feature-settings: 'liga' 1, 'kern' 1;
+  font-kerning: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: none;
 }
