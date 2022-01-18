@@ -95,3 +95,13 @@ html {
   -webkit-font-smoothing: antialiased;
   text-size-adjust: none;
 }
+
+body {
+  font-size: 14px;
+}
+
+@media screen and (min-width: 750px) {
+  body {
+    font-size: 16px;
+  }
+}
